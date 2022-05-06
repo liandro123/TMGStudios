@@ -3,7 +3,7 @@
 @match          *://*.tmgstudios.tv/supporters
 @version        1.0
 @description    Copies the M3U8 for the specific video / audio to clipboard for use in other viewing programs such as MPV or VLC
-
+@updateURL      https://raw.githubusercontent.com/liandro123/TMGStudios/master/M3U8Grabber.user.js
 @run-at         document-end
 ==/UserScript==*/
 
