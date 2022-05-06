@@ -35,7 +35,7 @@ for (let sec of tagSec) {
     btn.style = btnStyle;
     btn.innerText = btnText;
     sec.parentNode.appendChild(btn);
-    btn.addEventListener("click", copyStream)
+    btn.addEventListener("click", copyStream);
     }
 }
 
