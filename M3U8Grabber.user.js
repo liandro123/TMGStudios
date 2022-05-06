@@ -6,6 +6,7 @@
 // @run-at document-end
 // @license MIT
 // @namespace https://greasyfork.org/users/784940
+// @updateURL https://raw.githubusercontent.com/liandro123/TMGStudios/master/M3U8Grabber.user.js
 // ==/UserScript==
 
 // Constants
